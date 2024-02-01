@@ -1,6 +1,6 @@
 
 # [CHALLENGE NUMBER 21](https://www.programiz.com/kotlin-programming/examples/digits-count):
-- Count number of digits in an integer
+Count number of digits in an integer
 
 ## Inputs/Outputs:
 - Input -> A 7 digit integer
