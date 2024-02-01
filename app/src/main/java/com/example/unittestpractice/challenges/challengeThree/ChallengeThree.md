@@ -1,5 +1,5 @@
 
-# [CHALLENGE NUMBER 21]:(https://www.programiz.com/kotlin-programming/examples/digits-count)
+# [CHALLENGE NUMBER 21](https://www.programiz.com/kotlin-programming/examples/digits-count):
 - Count number of digits in an integer
 
 ## Inputs/Outputs:

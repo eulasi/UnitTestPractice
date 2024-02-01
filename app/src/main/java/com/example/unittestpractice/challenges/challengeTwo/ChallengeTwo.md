@@ -1,5 +1,5 @@
 
-# [CHALLENGE NUMBER 12]:(https://www.programiz.com/kotlin-programming/examples/positive-negative)
+# [CHALLENGE NUMBER 12](https://www.programiz.com/kotlin-programming/examples/positive-negative):
 - Check whether a number is positive or negative
 
 ## Inputs/Outputs:

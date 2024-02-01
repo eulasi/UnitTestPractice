@@ -1,5 +1,5 @@
 
-# [CHALLENGE NUMBER 8]: (https://www.programiz.com/kotlin-programming/examples/vowel-consonant) 
+# [CHALLENGE NUMBER 8](https://www.programiz.com/kotlin-programming/examples/vowel-consonant):
 - Check whether an alphabet is vowel or consonant
 
 ## Inputs/Outputs:
